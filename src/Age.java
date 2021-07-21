@@ -7,7 +7,7 @@ By Soleil Vivero
 public class Age {
     public static void main(String[] args){
         int age;
-        age = 100;
+        age = 70;
 
         System.out.println(age);
     }
