@@ -1,4 +1,5 @@
-// CharacterProfile.java
+package FirstSession;
+// FirstSession.CharacterProfile.java
 /*
 Prints out and formats the content assigned to the variables "name", "age", and "height".
 By Soleil Vivero
@@ -10,6 +11,6 @@ public class CharacterProfile {
         int age = 12;
         float height = 1.8f;
 
-        System.out.println("Name: " + name + "\nAge: " + age + "\nHeight: " + height + "m");
+        System.out.println("Name: " + name + "\nFirstSession.Age: " + age + "\nHeight: " + height + "m");
     }
 }

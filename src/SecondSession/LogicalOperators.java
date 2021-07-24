@@ -1,4 +1,4 @@
-// LogicalOperators.java
+package SecondSession;// SecondSession.LogicalOperators.java
 /*
 This program outputs the sum of several different arithmetic operations with the given value of variables.
 By Soleil Vivero

@@ -1,4 +1,5 @@
-// Age.java
+package FirstSession;
+// FirstSession.Age.java
 /*
 Prints the number that is assigned to the int variable "age".
 By Soleil Vivero

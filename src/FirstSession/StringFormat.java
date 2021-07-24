@@ -1,4 +1,4 @@
-// StringFormat.java
+package FirstSession;// FirstSession.StringFormat.java
 /*
 Formats the given title, author, pages, year, and price of a book.
 By Soleil Vivero

@@ -1,4 +1,4 @@
-// Scanner2.java
+package SecondSession;// SecondSession.Scanner2.java
 /*
 By Soleil Vivero
 */
