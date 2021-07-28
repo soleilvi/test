@@ -1,5 +1,7 @@
-package SecondSession;// SecondSession.Scanner1.java
+package SecondSession;
+// SecondSession.Scanner1.java
 /*
+Prints out "Hello x", with x being any name you give the program through the terminal input feature.
 By Soleil Vivero
 */
 

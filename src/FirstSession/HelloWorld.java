@@ -1,4 +1,5 @@
-package FirstSession;// FirstSession.HelloWorld.java
+package FirstSession;
+// FirstSession.HelloWorld.java
 /*
 Prints out "Hello World!"
 By Soleil Vivero

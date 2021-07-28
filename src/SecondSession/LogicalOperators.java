@@ -1,4 +1,5 @@
-package SecondSession;// SecondSession.LogicalOperators.java
+package SecondSession;
+// SecondSession.LogicalOperators.java
 /*
 This program outputs the sum of several different arithmetic operations with the given value of variables.
 By Soleil Vivero
@@ -14,7 +15,7 @@ public class LogicalOperators {
         sum5 = e % a;  // 5 % 3 = 2 (modulo gives the remainder of a division)
         sumTotal = sum1 + sum2 + sum3 + sum4 + sum5;  // 5 + 3 + 3 + 45 + 2 = 58
 
-        System.out.println("Sum1: " + sum1 + "\nSum2: " + sum2 + "\nSum3: " + sum3 + "\nSum4: " + sum4 + "\nSum5: " + sum5 +
-                            "\nSum total: " + sumTotal);
+        System.out.println("Sum1: " + sum1 + "\nSum2: " + sum2 + "\nSum3: " + sum3 + "\nSum4: " + sum4 +
+                           "\nSum5: " + sum5 + "\nSum total: " + sumTotal);
     }
 }

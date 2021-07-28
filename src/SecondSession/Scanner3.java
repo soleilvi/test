@@ -1,5 +1,7 @@
-package SecondSession;// SecondSession.Scanner3.java
+package SecondSession;
+// SecondSession.Scanner3.java
 /*
+This asks for your age and then roasts you regardless of what you put in, so have fun with that.
 By Soleil Vivero
 */
 
@@ -13,8 +15,8 @@ public class Scanner3 {
         age = input.nextInt();
 
         if(age < 18)
-            System.out.println("You are prime meat for an ENFJ.");
+            System.out.println("Pfft, what, you can't even watch Joker on theaters without parental supervision? Pathetic.");
         else
-            System.out.println("You are too old!");
+            System.out.println("You have lived for too long, why are you here?");
     }
 }

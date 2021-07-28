@@ -1,5 +1,7 @@
-package SecondSession;// SecondSession.Scanner2.java
+package SecondSession;
+// SecondSession.Scanner2.java
 /*
+The program asks you for two numbers and prints out their sum.
 By Soleil Vivero
 */
 

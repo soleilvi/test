@@ -1,6 +1,7 @@
 package SecondSession;
 // SecondSession.Scanner3.java
 /*
+Testing out else-if statements by asking you if you want cheese or not.
 By Soleil Vivero
 */
 
